@@ -1,0 +1,702 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.12182166541571,
+                    3.5338910123300793
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Alam Bukit Lawang",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Bahorok",
+                "nama": "Bahorok Konservasi orang utan, wisata pegunungan pemandian",
+                "gambar": "wisata1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.83897527972971,
+                    2.6671785765685416
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Budaya makam raja sidabutar",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Simanindo",
+                "nama": "Simanindo Rumah tradisional,batu hogon,makam raja sidabutar",
+                "gambar": "wisata2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.50133892566267,
+                    3.19488069877461
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Alam",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Berastagi",
+                "nama": "Berastagi Wisata alam gunung sibayak, pemandian air panas",
+                "gambar": "wisata1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.51394723377439,
+                    2.9603122346936424
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata budaya kampung tradisional",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Dokan",
+                "nama": "Dokan Komplek rumah adat karo",
+                "gambar": "wisata2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.41439817521491,
+                    3.1668782475423956
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata budaya kampung tradisional",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Kabanjahe",
+                "nama": "Kabanjahe Komplek rumah adat karo",
+                "gambar": "wisata1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.65585544988659,
+                    2.887477686850875
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Alam Danau",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Haranggaol",
+                "nama": "Haranggaol Wisata danau",
+                "gambar": "wisata2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.55647053720332,
+                    3.2798279373485757
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisat Hill Park",
+                "klasifikas": "Wisata Minat Khusus",
+                "lokasi": "Sibolangit",
+                "nama": "Sibolangit Wahana permainan,  alam pegunungan",
+                "gambar": "wisata1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.98879242501643,
+                    3.651368057734619
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata alam pantai",
+                "klasifikas": "Wisata Minat Khusus",
+                "lokasi": "Serdang bedagai",
+                "nama": "Serdang bedagai Pantai klang, P. cermin, Theme park,",
+                "gambar": "wisata2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.52477864363624,
+                    1.621551689643616
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata alam pantai",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Pulau Mursala",
+                "nama": "Pulau Mursala Pantai, olah raga air",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.76438588833075,
+                    1.711143341040159
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata alam pantai",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Pulau Poncan",
+                "nama": "Pulau Poncan Pantai, olah raga air",
+                "gambar": "wisata1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.61133637965882,
+                    3.2186190921148983
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata budaya istana lima laras",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Tanjung tiram",
+                "nama": "Tanjung tiram Istana, meriam kuno",
+                "gambar": "wisata2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.64895667061026,
+                    3.573906224846092
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Budaya sejarah Kota Lama Kesawan",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Medan Barat",
+                "nama": "Medan Barat Bangunan tua, rumah Chonk A fie, biara irian barat",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.05975703262052,
+                    1.8561101850389667
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata budaya istana kota pinang",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Kota Pinang",
+                "nama": "Kota Pinang Komplek Istana Kota pinang",
+                "gambar": "wisata1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.84557187998577,
+                    2.3390247343823347
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Alam Danau",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Muara",
+                "nama": "Muara Wisata danau, pegunungan, istana sisingamangaraja",
+                "gambar": "wisata2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.43164512340573,
+                    3.6256470694185947
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Alam minat khusus",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Se Wampu, Sei Bingai",
+                "nama": "Se Wampu, Sei Bingai Arung jeram, pemandian, pantai sungai",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.76655891337634,
+                    1.4387340388207694
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata budaya situs candi bahal",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Portibi",
+                "nama": "Portibi Situs, candi",
+                "gambar": "wisata1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.32221168200016,
+                    0.8588327160001178
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Olah Raga Air",
+                "klasifikas": "Wisata Minat Khusus",
+                "lokasi": "Pulau Asu, Hinako",
+                "nama": "Pulau Asu, Hinako Pulau-pulau kecil, pantai, olah raga air",
+                "gambar": "wisata2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.64863367554184,
+                    0.6212286945752101
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata alam pantai",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Moale",
+                "nama": "Moale Pantai, olah raga air",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.5592725400179,
+                    3.3324489501744075
+                ]
+            },
+            "properties": {
+                "keterangan": "Kawasan wisata alam sibolangit",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Sibolangit",
+                "nama": "Sibolangit Pemandian sungai, gua, perkemahan, air terjun",
+                "gambar": "wisata1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.07668098574294,
+                    1.9871869912893099
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata rohani salib kasih",
+                "klasifikas": "Wisata Minat Khusus",
+                "lokasi": "Tarutung",
+                "nama": "Tarutung Taman rohani",
+                "gambar": "wisata2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.1115963842931,
+                    2.3352764903648535
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Alam Danau",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Balige",
+                "nama": "Balige Wisata danau, pegunungan, museum batak",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.67504803726698,
+                    3.559698945768779
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Budaya Kesultanan Deli",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Medan Maimun",
+                "nama": "Medan Maimun Istana Maimun,Mesjid Raya AlMa'shun,Taman Sri Deli",
+                "gambar": "wisata1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.81592618909613,
+                    2.9405307722974756
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata budaya rumah bolon",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Purba",
+                "nama": "Purba Rumah bolon, makam raja simalungun,",
+                "gambar": "wisata2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.44372959043639,
+                    3.222287075955765
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Alam",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Berastagi",
+                "nama": "Berastagi Wisata alam pegunungan gundaling, tahura",
+                "gambar": "wisata1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.25937052754888,
+                    3.71970869846361
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Batu Rongring",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Batang Serangan",
+                "nama": "Batang Serangan Arung jeram, air panas, tracking, konservasi gajah",
+                "gambar": "wisata2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.4871495471521,
+                    0.9073633712077188
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata alam pantai",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Sirombu",
+                "nama": "Sirombu Pantai, olah raga air",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.86282461869648,
+                    0.5595160827406944
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata alam pantai",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Sorake, Lagundri",
+                "nama": "Sorake, Lagundri Pantai, olah raga air",
+                "gambar": "wisata1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.52547370322615,
+                    2.895310624796762
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Alam Danau",
+                "klasifikas": "wisata Alam/ Mkhusus",
+                "lokasi": "Tongging",
+                "nama": "Tongging Wisata danau, pegunungan, olah raga paralayang",
+                "gambar": "wisata2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.65879909248517,
+                    3.730276550974135
+                ]
+            },
+            "properties": {
+                "keterangan": "Danau Siombak",
+                "klasifikas": "Wisata Alam",
+                "lokasi": "Medan Marelan",
+                "nama": "Medan Marelan Wisata danau, pemancingan",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.64872365476897,
+                    3.7099404656254227
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata budaya kota cina,kota rantang",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Medan Marelan",
+                "nama": "Medan Marelan Situs, museum",
+                "gambar": "wisata1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.70328641180292,
+                    3.728129434489863
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Budaya Kesultanan Deli",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Medan Labuhan",
+                "nama": "Medan Labuhan Mesjid Al Osmani, bangunan tua",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.47475357823105,
+                    3.7521867391819965
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata budaya kesultanan langkat",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Stabat",
+                "nama": "Stabat Mesjid Azizi, makam, museum, komplek istana",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.71901724370115,
+                    3.846123425647855
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Siba Island",
+                "klasifikas": "Wisata Minat Khusus",
+                "lokasi": "Hamparan Perak",
+                "nama": "Hamparan Perak Rekreasi laut",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.98010342417571,
+                    3.593179283099054
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata budaya kesultanan serdang",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Kota Galuh",
+                "nama": "Kota Galuh Istana",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.58874352937009,
+                    3.4538866452296015
+                ]
+            },
+            "properties": {
+                "keterangan": "Kawasan wisata alam sembahe",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Sibolangit",
+                "nama": "Sibolangit Pemandian sungai",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.42961507682793,
+                    2.0076666583051703
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata budaya religi islam",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Barus",
+                "nama": "Barus Situs, makam, pantai, bangunan",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.9906997680002,
+                    1.3340016610000383
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata Danau Siais",
+                "klasifikas": "Wisata Alam",
+                "lokasi": "Angkola Singkunur",
+                "nama": "Angkola Singkunur Wisata Danau",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.35122218126612,
+                    2.721363390478943
+                ]
+            },
+            "properties": {
+                "keterangan": "Taman Wisata Iman",
+                "klasifikas": "Wisata Minat Khusus",
+                "lokasi": "Dairi",
+                "nama": "Dairi Bangunan tempat ibadah berbagi agama",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.19747673823942,
+                    1.4494745727717417
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata alam pantai",
+                "klasifikas": "Pariwisata Alam",
+                "lokasi": "Lahewa",
+                "nama": "Lahewa Wisata alam pantai",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.87970971588338,
+                    0.8661686658989741
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata budaya zaman megalitik",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Gomo",
+                "nama": "Gomo Batu-batu megalik, budaya prasejarah",
+                "gambar": "wisata.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.60875816743392,
+                    1.2981684278051737
+                ]
+            },
+            "properties": {
+                "keterangan": "Wisata budaya museum pusaka nias",
+                "klasifikas": "Pariwisata budaya",
+                "lokasi": "Gunung sitoli",
+                "nama": "Gunung sitoli Museum sejarah nias",
+                "gambar": "wisata.jpg"
+            }
+        }
+    ]
+}

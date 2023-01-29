@@ -1,0 +1,755 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.71939557500008,
+                    3.795974896000075
+                ]
+            },
+            "properties": {
+                "nama": "Belawan",
+                "keterangan": "Pelabuhan Utama",
+                "gambar": "g1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.45207284477156,
+                    3.3628655770118865
+                ]
+            },
+            "properties": {
+                "nama": "Kuala Tanjung",
+                "keterangan": "Pelabuhan Utama",
+                "gambar": "g2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.85686595800018,
+                    3.0393905060001773
+                ]
+            },
+            "properties": {
+                "nama": "Bagan Asahan",
+                "keterangan": "Pelabuhan Pengumpul",
+                "gambar": "g3.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.97925554200006,
+                    2.7510600770001754
+                ]
+            },
+            "properties": {
+                "nama": "Tanjung Leidong",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g4.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.78060240500017,
+                    1.7347466560001814
+                ]
+            },
+            "properties": {
+                "nama": "Sibolga",
+                "keterangan": "Pelabuhan Utama",
+                "gambar": "g5.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.41349545100023,
+                    -0.16690878999994682
+                ]
+            },
+            "properties": {
+                "nama": "Pulau Telo",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g6.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.82729760900015,
+                    0.54443054000004
+                ]
+            },
+            "properties": {
+                "nama": "Teluk Dalam",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g7.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.72991041800003,
+                    1.7324427500000752
+                ]
+            },
+            "properties": {
+                "nama": "Labuhan Angin",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g8.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.6401595440002,
+                    1.2608056420001195
+                ]
+            },
+            "properties": {
+                "nama": "Gunung Sitoli",
+                "keterangan": "Pelabuhan Pengumpul",
+                "gambar": "g9.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.09051815400004,
+                    1.4194084440000652
+                ]
+            },
+            "properties": {
+                "nama": "Lahewa",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g10.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.16007746700006,
+                    2.4967033030000607
+                ]
+            },
+            "properties": {
+                "nama": "Tanjung Sarang Elang",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g11.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.11011895400033,
+                    0.5517691530002242
+                ]
+            },
+            "properties": {
+                "nama": "Natal",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g12.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.25209912900004,
+                    4.201582644000041
+                ]
+            },
+            "properties": {
+                "nama": "Pangkalan Susu",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g13.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.31026398300017,
+                    4.074642416000131
+                ]
+            },
+            "properties": {
+                "nama": "Pangkalan Berandan",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g14.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.12201912100005,
+                    2.6123300270000414
+                ]
+            },
+            "properties": {
+                "nama": "Sei Berombang",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g15.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.24626231500008,
+                    3.4969202370000403
+                ]
+            },
+            "properties": {
+                "nama": "Tanjung Beringin",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g16.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.48715581100004,
+                    4.020514121000076
+                ]
+            },
+            "properties": {
+                "nama": "Tanjung Pura",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g17.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.58514977300013,
+                    3.230344134000103
+                ]
+            },
+            "properties": {
+                "nama": "Tanjung Tiram",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g18.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.99351263700014,
+                    3.6498475890000712
+                ]
+            },
+            "properties": {
+                "nama": "Pantai Cermin",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g19.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.81590202500007,
+                    2.999376506000033
+                ]
+            },
+            "properties": {
+                "nama": "Teluk Nibung",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g20.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.39057932900006,
+                    2.005965278000189
+                ]
+            },
+            "properties": {
+                "nama": "Barus",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g21.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.41091521900006,
+                    0.946968038000014
+                ]
+            },
+            "properties": {
+                "nama": "Sirombu",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g21.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.20740381700011,
+                    1.267310078000021
+                ]
+            },
+            "properties": {
+                "nama": "Afulu",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g22.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.32915232119753,
+                    3.4262752854475425
+                ]
+            },
+            "properties": {
+                "nama": "Pangkalan Dodek",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g23.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.12045313700008,
+                    3.5709009030000516
+                ]
+            },
+            "properties": {
+                "nama": "Sialang Buah",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g24.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.51266163600008,
+                    3.2855493570000363
+                ]
+            },
+            "properties": {
+                "nama": "Perupuk",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g25.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.90903345100008,
+                    3.6795144580000283
+                ]
+            },
+            "properties": {
+                "nama": "Pantai Labu",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g26.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.84208464600005,
+                    3.7022327130000576
+                ]
+            },
+            "properties": {
+                "nama": "Rantau Panjang",
+                "keterangan": "Pengumpan Regional",
+                "gambar": "g27.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.53808334300004,
+                    3.9949000250000495
+                ]
+            },
+            "properties": {
+                "nama": "Tapak Kuda",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g28.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.4585365552538,
+                    4.040125010925659
+                ]
+            },
+            "properties": {
+                "nama": "Kuala Serapuh",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g29.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.77506558100004,
+                    3.7312302360000444
+                ]
+            },
+            "properties": {
+                "nama": "Percut",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g30.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.08728411800007,
+                    2.3954440560000307
+                ]
+            },
+            "properties": {
+                "nama": "Gajahmati",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g31.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.16724552000005,
+                    2.5163229570000567
+                ]
+            },
+            "properties": {
+                "nama": "Labuhan Bilik",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g32.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.09633261600005,
+                    2.665690699000209
+                ]
+            },
+            "properties": {
+                "nama": "Sei Kubung",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g33.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.99391897300015,
+                    2.808360739000151
+                ]
+            },
+            "properties": {
+                "nama": "Simandulang",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g34.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.06148565336795,
+                    0.6226917942257568
+                ]
+            },
+            "properties": {
+                "nama": "Sikara-kara",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g35.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.92618636400009,
+                    1.0589085340000868
+                ]
+            },
+            "properties": {
+                "nama": "Singkuang",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g36.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.9830389910002,
+                    0.8483451740001052
+                ]
+            },
+            "properties": {
+                "nama": "Tabuyung",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g37.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.3303357610001,
+                    0.8632984790000604
+                ]
+            },
+            "properties": {
+                "nama": "Hinako",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "38.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.20603707300013,
+                    -0.12834282299991745
+                ]
+            },
+            "properties": {
+                "nama": "Sigolo-golo",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g39.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.71322516427382,
+                    0.5598876847909183
+                ]
+            },
+            "properties": {
+                "nama": "Lagundri",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g40.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.89378675400025,
+                    0.7595431190001098
+                ]
+            },
+            "properties": {
+                "nama": "Lahusa",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g41.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.32259921500015,
+                    -0.012102273999888669
+                ]
+            },
+            "properties": {
+                "nama": "P. Tanahmasa",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g42.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.48660535900015,
+                    -0.03722499599995725
+                ]
+            },
+            "properties": {
+                "nama": "Pulau Bais",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g43.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.6913668640001,
+                    0.6287194510001144
+                ]
+            },
+            "properties": {
+                "nama": "Solonako",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g44.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.52281350800011,
+                    1.422404261000129
+                ]
+            },
+            "properties": {
+                "nama": "Tuhemberua",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g33.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.24501376619935,
+                    2.076243988892791
+                ]
+            },
+            "properties": {
+                "nama": "Manduamas",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.29968923800006,
+                    2.0413331980002076
+                ]
+            },
+            "properties": {
+                "nama": "Muara Tapus",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.13578318800015,
+                    0.3991847720001489
+                ]
+            },
+            "properties": {
+                "nama": "Batahan",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.77894230324743,
+                    0.09294393708661665
+                ]
+            },
+            "properties": {
+                "nama": "Labuhan Hiu",
+                "keterangan": "Pelabuhan Pengumpan Lokal",
+                "gambar": "g1.jpg"
+            }
+        }
+    ]
+}
